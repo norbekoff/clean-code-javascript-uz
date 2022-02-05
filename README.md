@@ -16,3 +16,6 @@
 12. [Tarjima](#tarjima) 
 
 ## Kirish
+
+![Humorous image of software quality estimation as a count of how many expletives
+you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
