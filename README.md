@@ -2,7 +2,10 @@
 
 ## Mundarija
 
-1. [Kirish](#Kirish)
-2. [O'zgaruvchilar](#O'zgaruvchilar)
-3. [Funksiyalar](#Funksiyalar)
-4. [Obyektlar va ma'lumotlar strukturasi](#Obyektlar-va-ma'lumotlar-strukturasi)
+1. [Kirish](#kirish)
+2. [O'zgaruvchilar](#o'zgaruvchilar)
+3. [Funksiyalar](#funksiyalar)
+4. [Obyektlar va ma'lumotlar strukturasi](#obyektlar-va-ma'lumotlar-strukturasi)
+5. [Klasslar](#klasslar)
+6. [SOLID](#solid)
+7. [Testlash](#testlash)
