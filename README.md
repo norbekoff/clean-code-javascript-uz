@@ -14,3 +14,5 @@
 10. [Formatlash](#formatlash)
 11. [Kommentlar](#kommentlar)
 12. [Tarjima](#tarjima) 
+
+## Kirish
