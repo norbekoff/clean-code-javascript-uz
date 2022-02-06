@@ -21,3 +21,6 @@ Original Repository: [ryanmcdermott/clean-code-javascript](https://github.com/ry
 
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
+
+Robert C. Martinning "Clean Code" kitobidan dasturiy ta'minot muhandisligi tamoyillari, JavaScript uchun moslashtirildi. Bu uslublar bo'yicha qo'llanma emas.
+Bu JavaScript-da o'qilishga, o'zgartirishga oson va qayta ishlatiladigan dasturiy ta'minot yaratish bo'yicha qo'llanma.
