@@ -24,3 +24,6 @@ you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
 
 Robert C. Martinning ["Clean Code"](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) kitobidan dasturiy ta'minot muhandisligi tamoyillari, JavaScript uchun moslashtirildi. Bu uslublar bo'yicha qo'llanma emas.
 Bu JavaScript-da [o'qilishga, o'zgartirishga oson va qayta ishlatiladigan](https://github.com/ryanmcdermott/3rs-of-software-architecture) dasturiy ta'minot yaratish bo'yicha qo'llanma.
+
+Bu yerdagi barcha prinsplarga qat'iy rioya qilish shart emas. Bular shunchaki ko'rsatmalar boshqa hech narsa emas, lekin ular
+_Clean code_ mualliflari tomonidan ko'p yillik jamoaviy tajriba orqali yig'ilgan.
