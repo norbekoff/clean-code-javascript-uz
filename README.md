@@ -28,4 +28,4 @@ Bu JavaScript-da [o'qilishga, o'zgartirishga oson va qayta ishlatiladigan](https
 Bu yerdagi barcha prinsplarga qat'iy rioya qilish shart emas. Bular shunchaki ko'rsatmalar boshqa hech narsa emas, lekin ular
 _Clean code_ mualliflari tomonidan ko'p yillik jamoaviy tajriba orqali yig'ilgan.
 
-Bizning dasturiy ta'minot muhandisligi(software engineering) bo'yicha tajribamiz 50 yildan biroz oshgan va biz hali ham ko'p narsalarni o'rganmoqdamiz. Dasturiy ta'minot arxitekturasi arxitekturaning o'zi kabi qari bo'lsa, bizda amal qilish qiyinroq qoidalar bo'lishi mumkin. Hozircha ushbu ko'rsatmalar siz va sizning jamoangiz ishlab yozadigan  JavaScript kodining sifatini baholash uchun asosiy mezon bo'lib xizmat qilsin.
+Bizning dasturiy ta'minot muhandisligi (software engineering) bo'yicha tajribamiz 50 yildan biroz oshgan va biz hali ham ko'p narsalarni o'rganmoqdamiz. Dasturiy ta'minot arxitekturasi arxitekturaning o'zi kabi qari bo'lsa, bizda amal qilish qiyinroq qoidalar bo'lishi mumkin. Hozircha ushbu ko'rsatmalar siz va sizning jamoangiz yozadigan  JavaScript kodining sifatini baholash uchun asosiy mezon bo'lib xizmat qilsin.
