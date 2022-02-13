@@ -29,3 +29,5 @@ Bu yerdagi barcha prinsplarga qat'iy rioya qilish shart emas. Bular shunchaki ko
 _Clean code_ mualliflari tomonidan ko'p yillik jamoaviy tajriba orqali yig'ilgan.
 
 Bizning dasturiy ta'minot muhandisligi (software engineering) bo'yicha tajribamiz 50 yildan biroz oshgan va biz hali ham ko'p narsalarni o'rganmoqdamiz. Dasturiy ta'minot arxitekturasi arxitekturaning o'zi kabi qari bo'lsa, bizda amal qilish qiyinroq qoidalar bo'lishi mumkin. Hozircha ushbu ko'rsatmalar siz va sizning jamoangiz yozadigan  JavaScript kodining sifatini baholash uchun asosiy mezon bo'lib xizmat qilsin.
+
+Yana bir narsa: bularni bilishingiz sizni darhol yaxshi dasturchiga aylantirmaydi va bu qoidalar bilan ko'p yil ishlash orqali xatolardan to'liq qutulasiz degani emas. Har bir kod bo'lagi birinchi qoralama sifatida boshlanadi, huddi yumshoq loy o'zining yakuniy qattiq shakliga aylanganidek. Va nihoyat, biz boshqalar bilan birgalikda ishlab  kamchiliklarni yo'q qilamiz. Hom qoralamalarni yaxshilayman deb o'zingizni mag'lub etmang. O'rniga kodni o'zini mag'lub eting!
