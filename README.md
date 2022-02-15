@@ -48,4 +48,4 @@ const yyyymmdstr = moment().format("YYYY/MM/DD");
 const currentDate = moment().format("YYYY/MM/DD");
 ```
 
-**[⬆ Tepaga qaytish](#Mundarija)**
+**[⬆ tepaga qaytish](#Mundarija)**
