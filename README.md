@@ -5,7 +5,7 @@ Original Repository: [ryanmcdermott/clean-code-javascript](https://github.com/ry
 ## Mundarija
 
 1. [Kirish](#kirish)
-2. [O'zgaruvchilar](#O'zgaruvchilar)
+2. [O'zgaruvchilar](#Ozgaruvchilar)
 3. [Funksiyalar](#funksiyalar)
 4. [Obyektlar va ma'lumotlar strukturasi](#obyektlar-va-ma'lumotlar-strukturasi)
 5. [Klasslar](#klasslar)
@@ -32,7 +32,7 @@ Bizning dasturiy ta'minot muhandisligi (software engineering) bo'yicha tajribami
 
 Yana bir narsa: bularni bilishingiz sizni darhol yaxshi dasturchiga aylantirmaydi va bu qoidalar bilan ko'p yil ishlash orqali xatolardan to'liq qutulasiz degani emas. Har bir kod bo'lagi birinchi qoralama sifatida boshlanadi, huddi yumshoq loy o'zining yakuniy qattiq shakliga aylanganidek. Va nihoyat, biz boshqalar bilan birgalikda ishlab  kamchiliklarni yo'q qilamiz. Hom qoralamalarni yaxshilayman deb o'zingizni mag'lub etmang. Buni o'rniga kodni o'zini mag'lub eting!
 
-## **O'zgaruvchilar**
+## **Ozgaruvchilar**
 
 ### Ma'noli va talaffuz qilishga oson o'zgaruvchi nomlaridan foydalaning
 
