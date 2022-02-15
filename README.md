@@ -47,3 +47,5 @@ const yyyymmdstr = moment().format("YYYY/MM/DD");
 ```javascript
 const currentDate = moment().format("YYYY/MM/DD");
 ```
+
+**[⬆ Tepaga qaytish](#Mundarija)**
