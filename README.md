@@ -49,3 +49,21 @@ const currentDate = moment().format("YYYY/MM/DD");
 ```
 
 **[⬆ tepaga qaytish](#Mundarija)**
+
+### Bir xil turdagi o'zgaruvchilar uchun bir xil lug'atdan foydalaning
+
+**Yomon:**
+
+```javascript
+getUserInfo();
+getClientData();
+getCustomerRecord();
+```
+
+**Yaxshi:**
+
+```javascript
+getUser();
+```
+
+**[⬆ tepaga qaytish](#Mundarija)**
