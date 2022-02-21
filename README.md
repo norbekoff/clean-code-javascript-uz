@@ -67,4 +67,3 @@ getUser();
 ```
 
 **[⬆ tepaga qaytish](#Mundarija)**
-
