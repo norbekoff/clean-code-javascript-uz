@@ -67,3 +67,5 @@ getUser();
 ```
 
 **[⬆ tepaga qaytish](#Mundarija)**
+
+### Qidirishga oson nomlardan foydalaning
