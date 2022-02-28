@@ -71,3 +71,17 @@ getUser();
 ### Qidirishga oson nomlardan foydalaning
 
 Biz yozganimizdan ko'ra ko'proq kodni o'qiymiz. Muhimi, o‘qilishi va izlanishi oson kod yozishimiz. Tushunarsiz o'zgaruvchilar yaratishimiz orqali biz kodimizni o'qiydiganlarni qinaymiz. O'zgaruvchilaringiz qidirishga oson bo'lsin. Buddy.js va ESLint kabi vositalar nomsiz konstantalarni aniqlashga yordam beradi.
+
+
+**Yomon:**
+```javascript
+// What the heck is 86400000 for?
+setTimeout(blastOff, 86400000);
+```
+**Yaxshi:**
+```javascript
+// Declare them as capitalized named constants.
+const MILLISECONDS_PER_DAY = 60 * 60 * 24 * 1000; //86400000;
+setTimeout(blastOff, MILLISECONDS_PER_DAY);
+```
+**[⬆ tepaga qaytish](#Mundarija)**
