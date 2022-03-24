@@ -89,5 +89,20 @@ setTimeout(blastOff, MILLISECONDS_PER_DAY);
 ### Tushunarli o'zgaruvchilardan foydalaning
 
 **Yomon:**
+```javascript
+const address = "One Infinite Loop, Cupertino 95014";
+const cityZipCodeRegex = /^[^,\\]+[,\\\s]+(.+?)\s*(\d{5})?$/;
+saveCityZipCode(
+  address.match(cityZipCodeRegex)[1],
+  address.match(cityZipCodeRegex)[2]
+);
+```
 
-
+**Yaxshi:**
+```javascript
+const address = "One Infinite Loop, Cupertino 95014";
+const cityZipCodeRegex = /^[^,\\]+[,\\\s]+(.+?)\s*(\d{5})?$/;
+const [_, city, zipCode] = address.match(cityZipCodeRegex) || [];
+saveCityZipCode(city, zipCode);
+```
+**[⬆ tepaga qaytish](#Mundarija)**
