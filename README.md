@@ -106,3 +106,7 @@ const [_, city, zipCode] = address.match(cityZipCodeRegex) || [];
 saveCityZipCode(city, zipCode);
 ```
 **[⬆ tepaga qaytish](#Mundarija)**
+
+### Hayoliy xaritalashdan saqlaning
+
+
