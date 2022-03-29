@@ -109,4 +109,17 @@ saveCityZipCode(city, zipCode);
 
 ### Hayoliy xaritalashdan saqlaning
 
+**Yomon:**
+```javascript
+const locations = ["Austin", "New York", "San Francisco"];
+locations.forEach(l => {
+  doStuff();
+  doSomeOtherStuff();
+  // ...
+  // ...
+  // ...
+  // Wait, what is `l` for again?
+  dispatch(l);
+});
+```
 
