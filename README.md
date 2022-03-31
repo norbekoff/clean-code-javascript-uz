@@ -123,7 +123,8 @@ locations.forEach(l => {
 });
 ```
 **Yaxshi:**
-```const locations = ["Austin", "New York", "San Francisco"];
+```javascript
+const locations = ["Austin", "New York", "San Francisco"];
 locations.forEach(location => {
   doStuff();
   doSomeOtherStuff();
@@ -131,6 +132,7 @@ locations.forEach(location => {
   // ...
   // ...
   dispatch(location);
-});```
+});
+```
 
 **[⬆ tepaga qaytish](#Mundarija)**
