@@ -136,3 +136,7 @@ locations.forEach(location => {
 ```
 
 **[⬆ tepaga qaytish](#Mundarija)**
+
+### Keraksiz kontekst yozmang
+
+Agar klass/obyekt nomi biror narsa anglatsa, buni o'zgaruvchigiz nominda ham takrorlamang.
