@@ -140,3 +140,32 @@ locations.forEach(location => {
 ### Keraksiz kontekst yozmang
 
 Agar klass/obyekt nomi biror narsa anglatsa, buni o'zgaruvchigiz nominda ham takrorlamang.
+
+
+**Yomon:**
+```javascript
+const Car = {
+  carMake: "Honda",
+  carModel: "Accord",
+  carColor: "Blue"
+};
+
+function paintCar(car, color) {
+  car.carColor = color;
+}
+```
+**Yaxshi:**
+```javascript
+const Car = {
+  make: "Honda",
+  model: "Accord",
+  color: "Blue"
+};
+
+function paintCar(car, color) {
+  car.color = color;
+}
+```
+
+**[⬆ tepaga qaytish](#Mundarija)**
+
