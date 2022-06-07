@@ -139,7 +139,7 @@ locations.forEach(location => {
 
 ### Keraksiz kontekst yozmang
 
-Agar klass/obyekt nomi biror narsa anglatsa, buni o'zgaruvchigiz nominda ham takrorlamang.
+Agar klass/obyekt nomi kerakli ma'noni anglatsa, buni o'zgaruvchigiz(property) nomida ham takrorlamang.
 
 
 **Yomon:**
