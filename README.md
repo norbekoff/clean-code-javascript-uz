@@ -169,3 +169,5 @@ function paintCar(car, color) {
 
 **[⬆ tepaga qaytish](#Mundarija)**
 
+
+### If shartlari o'rniga standart argumentlardan foydalaning
