@@ -171,3 +171,8 @@ function paintCar(car, color) {
 
 
 ### If shartlari o'rniga standart argumentlardan foydalaning
+
+Default arguments are often cleaner than short circuiting. Be aware that if you use them, your function will only provide default values for undefined arguments. Other "falsy" values such as '', "", false, null, 0, and NaN, will not be replaced by a default value.
+
+Standart argumentlar ko'pincha qisqa va tozaroq. Shuni yodda tutingki, funksiyangiz faqat aniqlanmagan argumentlar uchun standart qiymatlarni beradi. "'", "", noto'g'ri, null, 0 va NaN kabi boshqa "falsy" qiymatlar standart qiymat bilan almashtirilmaydi.
+
