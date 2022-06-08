@@ -170,7 +170,7 @@ function paintCar(car, color) {
 **[⬆ tepaga qaytish](#Mundarija)**
 
 
-### If shartlari o'rniga standart(default) argumentlardan foydalaning
+### If shartlari o'rniga default argumentlardan foydalaning
 
-Standart argumentlar ko'pincha qisqa va tozaroq. Shuni yodda tutingki, funksiyangiz faqat aniqlanmagan argumentlar uchun standart qiymatlarni beradi. `''`, `""`, `false`, `null`, `0`, va `NaN` kabi boshqa "falsy" qiymatlar standart qiymat bilan almashtirilmaydi.
+Default argumentlar ko'pincha qisqa va tozaroq. Shuni yodda tutingki, funksiyangiz faqat aniqlanmagan argumentlar uchun default qiymatlarni beradi. `''`, `""`, `false`, `null`, `0`, va `NaN` kabi boshqa "falsy" qiymatlar default qiymat bilan almashtirilmaydi.
 
