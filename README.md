@@ -172,5 +172,5 @@ function paintCar(car, color) {
 
 ### If shartlari o'rniga default argumentlardan foydalaning
 
-Default argumentlar ko'pincha qisqa va tozaroq. Shuni yodda tutingki, funksiyangiz faqat aniqlanmagan argumentlar uchun default qiymatlarni beradi. `''`, `""`, `false`, `null`, `0`, va `NaN` kabi boshqa "falsy" qiymatlar default qiymat bilan almashtirilmaydi.
+Default argumentlar ko'pincha qisqaroq va tozaroq. Shuni yodda tutingki, funksiyangiz faqat aniqlanmagan argumentlar uchun default qiymatlarni beradi. `''`, `""`, `false`, `null`, `0`, va `NaN` kabi boshqa "falsy" qiymatlar default qiymat bilan almashtirilmaydi.
 
