@@ -70,7 +70,7 @@ getUser();
 
 ### Qidirishga oson nomlardan foydalaning
 
-Biz yozganimizdan ko'ra ko'proq kodni o'qiymiz. Muhimi, o‘qilishi va izlanishi oson kod yozishimiz. Tushunarsiz o'zgaruvchilar yaratishimiz orqali biz kodimizni o'qiydiganlarni qinaymiz. O'zgaruvchilaringiz qidirishga oson bo'lsin. Buddy.js va ESLint kabi vositalar nomsiz konstantalarni aniqlashga yordam beradi.
+Biz yozganimizdan ko'ra ko'proq kodni o'qiymiz. Muhimi, o‘qilishi va izlanishi oson bolgan kod yozishimiz. Tushunarsiz o'zgaruvchilar yaratishimiz orqali biz kodimizni o'qiydiganlarni qinaymiz. O'zgaruvchilaringiz qidirishga oson bo'lsin. Buddy.js va ESLint kabi vositalar nomsiz konstantalarni aniqlashga yordam beradi.
 
 
 **Yomon:**
