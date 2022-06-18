@@ -174,3 +174,18 @@ function paintCar(car, color) {
 
 Default argumentlar ko'pincha qisqaroq va tozaroq. Shuni yodda tutingki, funksiyangiz faqat aniqlanmagan argumentlar uchun default qiymatlarni beradi. `''`, `""`, `false`, `null`, `0`, va `NaN` kabi boshqa "falsy" qiymatlar default qiymat bilan almashtirilmaydi.
 
+**Yomon:**
+```javascript
+function createMicrobrewery(name) {
+  const breweryName = name || "Hipster Brew Co.";
+  // ...
+}
+```
+**Yaxshi:**
+```javascript
+function createMicrobrewery(name = "Hipster Brew Co.") {
+  // ...
+}
+```
+
+**[⬆ tepaga qaytish](#Mundarija)**
