@@ -189,3 +189,7 @@ function createMicrobrewery(name = "Hipster Brew Co.") {
 ```
 
 **[⬆ tepaga qaytish](#Mundarija)**
+
+
+## **Funksiyalar**
+### Funksiya argumentlari (2 ta yoki kamroq)
