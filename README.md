@@ -196,3 +196,4 @@ function createMicrobrewery(name = "Hipster Brew Co.") {
 
 Funksiya parametrlarining miqdorini cheklash juda muhim, chunki bu
 funksiyani test qilishni osonlashtiradi. Uchdan ortiq parameterlar bo'lishi kombinatorli portlash ga olib keladi, yani siz tonnalab turli hil holatlarni test qilishingizga to'gri keladi.
+
