@@ -197,3 +197,6 @@ function createMicrobrewery(name = "Hipster Brew Co.") {
 Funksiya parametrlarining miqdorini cheklash juda muhim, chunki bu
 funksiyani test qilishni osonlashtiradi. Uchdan ortiq parameterlar bo'lishi kombinatorli portlash ga olib keladi, yani siz tonnalab turli hil holatlarni test qilishingizga to'gri keladi.
 
+Bir yoki ikkita argument ideal holat bo'lib, iloji bo'lsa, uchdan qochish kerak. Agar uchdan kopayib ketsa ularni birlashtirish kerak. Odatda, sizda ikkitadan ko'p argument bo'lsa, sizning funksiyangiz juda ko'p narsani qilishga harakat qilmoqda. 
+
+JavaScript sizga obyektlarni klass'larsiz yaratishga imkon berganligi sababli, sizga koplab argumentlar kerak bo'lganida, obyektdan foydalanishingiz mumkin.
