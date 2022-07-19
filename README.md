@@ -200,3 +200,11 @@ funksiyani test qilishni osonlashtiradi. Uchdan ortiq parameterlar bo'lishi komb
 Bir yoki ikkita argument ideal holat bo'lib, iloji bo'lsa, uchdan qochish kerak. Agar uchdan kopayib ketsa ularni birlashtirish kerak. Odatda, sizda ikkitadan ko'p argument bo'lsa, sizning funksiyangiz juda ko'p narsani qilishga harakat qilmoqda. 
 
 JavaScript sizga obyektlarni klass'larsiz yaratishga imkon berganligi sababli, sizga koplab argumentlar kerak bo'lganida, obyektdan foydalanishingiz mumkin.
+
+Funksiya qanday xususiyatlarni(properties) kutayotganini aniq ko'rsatish uchun siz ES2015/ES6 destructuring sintaksisidan foydalanishingiz mumkin. Bu bir nechta afzalliklarga ega:
+
+1. Kimdir funksiya imzosiga (function signature) qarasa, qaysi xususiyatlar ishlatilayotgani aniq ko'ra oladi.
+2. Nomlangan parametrlarni simulyatsiya qilish uchun foydalanish mumkin.
+3. Destructuring argumentning belgilangan primitiv qiymatlarini klonlaydi. Bu nojo'ya ta'sirlarning(side effect) oldini olishga yordam beradi. Eslatma:
+    argument obyektdan olingan (destructured) obyekt va massivlar klonlanmaydi. 
+4. Linterlar sizni foydalanilmagan xususiyatlar haqida ogohlantirishi mumkin, bu destructuring yordamisiz ilojsiz.
