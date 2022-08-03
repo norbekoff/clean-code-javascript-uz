@@ -207,4 +207,29 @@ Funksiya qanday xususiyatlarni(properties) kutayotganini aniq ko'rsatish uchun s
 2. Nomlangan parametrlarni simulyatsiya qilish uchun foydalanish mumkin.
 3. Destructuring argumentning belgilangan primitiv qiymatlarini klonlaydi. Bu nojo'ya ta'sirlarning(side effect) oldini olishga yordam beradi. Eslatma:
     argument obyektdan olingan (destructured) obyekt va massivlar klonlanmaydi. 
-4. Linterlar sizni foydalanilmagan xususiyatlar haqida ogohlantirishi mumkin, bu destructuring yordamisiz ilojsiz.
+4. Linterlar sizni foydalanilmagan xususiyatlar haqida ogohlantiradi, bu destructuring yordamisiz ilojsiz.
+
+
+**Yomon:**
+```javascript
+function createMenu(title, body, buttonText, cancellable) {
+  // ...
+}
+
+createMenu("Foo", "Bar", "Baz", true);
+```
+**Yaxshi:**
+```javascript
+function createMenu({ title, body, buttonText, cancellable }) {
+  // ...
+}
+
+createMenu({
+  title: "Foo",
+  body: "Bar",
+  buttonText: "Baz",
+  cancellable: true
+});
+```
+
+**[⬆ tepaga qaytish](#Mundarija)**
