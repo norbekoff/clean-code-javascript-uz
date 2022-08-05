@@ -233,3 +233,6 @@ createMenu({
 ```
 
 **[⬆ tepaga qaytish](#Mundarija)**
+
+### Funksiya faqat bitta ishni qilishi kerak.
+Bu dasturlashdagi eng muhim qoidadur. Funksiya bir nechta ishni bajarsa uni har hil joyda ishlatish, test qilish va tushunish qiyinlashadi. Funksiyani faqat bir maqsadli qilsangiz, uni qayta refactor qilish va o'qish ancha ossonlashadi. Agar siz bu qollanmadan hech narsaga amal qilmasdan faqat shu qoidaga amal qilsangiz, siz ko'plab dasturchilardan oldinlab ketgan bo'lasiz.
