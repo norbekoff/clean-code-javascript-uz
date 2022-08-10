@@ -236,3 +236,28 @@ createMenu({
 
 ### Funksiya faqat bitta ishni qilishi kerak.
 Bu dasturlashdagi eng muhim qoidadur. Funksiya bir nechta ishni bajarsa uni har hil joyda ishlatish, test qilish va tushunish qiyinlashadi. Funksiyani faqat bir maqsadli qilsangiz, uni qayta refactor qilish va o'qish ancha ossonlashadi. Agar siz bu qollanmadan hech narsaga amal qilmasdan faqat shu qoidaga amal qilsangiz, siz ko'plab dasturchilardan oldinlab ketgan bo'lasiz.
+
+**Yomon:**
+```javascript
+function emailClients(clients) {
+  clients.forEach(client => {
+    const clientRecord = database.lookup(client);
+    if (clientRecord.isActive()) {
+      email(client);
+    }
+  });
+}
+```
+**Yaxshi:**
+```javascript
+function emailActiveClients(clients) {
+  clients.filter(isActiveClient).forEach(email);
+}
+
+function isActiveClient(client) {
+  const clientRecord = database.lookup(client);
+  return clientRecord.isActive();
+}
+```
+
+**[⬆ tepaga qaytish](#Mundarija)**
