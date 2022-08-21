@@ -261,3 +261,27 @@ function isActiveClient(client) {
 ```
 
 **[⬆ tepaga qaytish](#Mundarija)**
+
+### Funksiya nomi funksiya nima qilishini aytib turishi kerak 
+
+**Yomon:**
+```javascript
+function addToDate(date, month) {
+  // ...
+}
+
+const date = new Date();
+
+// It's hard to tell from the function name what is added
+addToDate(date, 1);
+```
+**Yaxshi:**
+```javascript
+function addMonthToDate(month, date) {
+  // ...
+}
+
+const date = new Date();
+addMonthToDate(1, date);
+```
+**[⬆ tepaga qaytish](#Mundarija)**
